@@ -6,7 +6,7 @@ desconto de irmãos/bolsa. Monolito + banco relacional.
 É daqui que nasce o evento `mensalidade.gerada`, um por aluno, a cada ciclo
 de faturamento.
 
-Parte do case [`colegio-leal`](https://github.com/SEU-USUARIO/colegio-leal)
+Parte do case [`colegio-leal`](https://github.com/lealnetosena/colegio-leal)
 (link a atualizar quando publicado).
 
 ## Status
